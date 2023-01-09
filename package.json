@@ -1,0 +1,29 @@
+{
+  "name": "namazvakti-telegram-bot",
+  "version": "1.0.0",
+  "description": "Bu bot https://namazvakti.app icin hazirlanmistir.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekipisi/namazvakti-telegram-bot.git"
+  },
+  "keywords": [
+    "namaz-vakitleri",
+    "telegram",
+    "bot"
+  ],
+  "author": "Mustafa Genc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekipisi/namazvakti-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/ekipisi/namazvakti-telegram-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.11.2"
+  }
+}
